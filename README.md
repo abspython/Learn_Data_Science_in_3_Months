@@ -4,9 +4,6 @@
 
 This is the Curriculum for [Learn Data Science in 3 Months](https://youtu.be/9rDhY1P3YLA) by Siraj Raval on Youtube. After completing this course, start applying for jobs, doing contract work, start your own data science consulting group, or just keep on learning. Remember to believe in your ability to learn. You can learn data science, you will learn data science, and if you stick to it, eventually you will master it. 
 
-## Find a study buddy
-Join the #DataSciencein3Months channel in our [Slack](http://wizards.herokuapp.com) channel to find one. 
-
 #### Components
 - 3 Projects 
 - 1 Weekly assignment. Pick 1 from the course for each week, do it in a weekend. 
